@@ -63,8 +63,15 @@ external solar system.
 Owing to COVID-19 restrictions, the number of participants is limited
 to 25 (39 including lecturers). Candidates must send mail to
 S. Labrosse (stephane.labrosse (at) ens-lyon.fr) and B. Romanowicz
-(barbara.romanowicz (a) college-de-france.fr ) with a short CV and a motivation mail
-stating their topic of research. 
+(barbara.romanowicz (a) college-de-france.fr ) stating:
+* Lastname, firstname
+* Number of years in PhD or postdoc
+* Primary field (e.g. geodynamics, mineral physics, seismology etc.)
+* Subject of PhD or postdoc project
+Each candidate must also ask their advisor to send us a short support
+letter. 
+
+**Application deadline: June 7, 2021**
 
 The housing and food is covered by our sponsors: [Labex LIO](https://lio.universite-lyon.fr/) and [CNRS](http://www.cnrs.fr/en).
 
