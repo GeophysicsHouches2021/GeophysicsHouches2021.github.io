@@ -34,6 +34,7 @@ students and young researchers.
 * Stéphane Labrosse (ENS de Lyon)
 * Maylis Landeau (Institut de Physique du Globe de Paris)
 * Ludovic Margerin (U. Toulouse)
+* Jean-Paul Montagner (Institut de Physique du Globe de Paris)
 * Guillaume Morard (U. Grenoble Alpes)
 * Isabelle Panet (Institut Géographique National)
 * Bruno Reynard (ENS de Lyon)
