@@ -68,6 +68,7 @@ S. Labrosse (stephane.labrosse (at) ens-lyon.fr) and B. Romanowicz
 * Number of years in PhD or postdoc
 * Primary field (e.g. geodynamics, mineral physics, seismology etc.)
 * Subject of PhD or postdoc project
+
 Each candidate must also ask their advisor to send us a short support
 letter. 
 
