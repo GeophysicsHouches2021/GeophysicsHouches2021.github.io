@@ -17,6 +17,8 @@ students and young researchers.
 * Mineral physics: Crystal structure, deformation mechanisms, ab initio calculations, physical properties of the core and mantle.
 * Geochemistry: Isotopic geochemistry, heterogeneity of the mantle, evolution of the Earth, core formation, magma ocean processes.
 
+**The school will primarily be in english**
+
 # Multi-disciplinary discussions
 
 * Rheology.
