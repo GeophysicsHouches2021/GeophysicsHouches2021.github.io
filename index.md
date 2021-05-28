@@ -15,7 +15,7 @@ students and young researchers.
 * Earth structure seen from its gravity field.
 * Seismology: body waves, normal modes and surface waves, inverse problem theory, seismic tomography, structure near the core-mantle boundary.
 * Mineral physics: Crystal structure, deformation mechanisms, ab initio calculations, physical properties of the core and mantle.
-* Geochemistry: Isotopic geochemistry, heterogeneity of the mantle, evolution of the Earth, core formation, magma ocean processes.
+* Geochemistry: heterogeneity of the mantle, evolution of the Earth, core formation, magma ocean processes.
 
 **The school will primarily be in english**
 
