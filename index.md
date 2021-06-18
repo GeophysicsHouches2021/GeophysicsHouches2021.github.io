@@ -20,13 +20,17 @@ students and young researchers.
 **The school will primarily be in english**
 
 # Multi-disciplinary discussions
-
 * Rheology.
 * Mixing and heterogeneities.
 * Open science: community-led journal, community codes, open data.
 
-# Confirmed lecturers
+# Presentations by participants
+* Two sessions of short presentations by all participants will be
+organised.
+* All participants are encouraged to bring poster, preferably in
+  portrait format to fit the poster boards.
 
+# Confirmed lecturers
 * Thierry Alboussière (U. Lyon)
 * Maëlis Arnould (U. Lyon)
 * Frédéric Chambat (U. Lyon)
@@ -38,6 +42,7 @@ students and young researchers.
 * Ludovic Margerin (U. Toulouse)
 * Jean-Paul Montagner (Institut de Physique du Globe de Paris)
 * Guillaume Morard (U. Grenoble Alpes)
+* Henri-Claude Nataf (U. Grenoble Alpes)
 * Isabelle Panet (Institut Géographique National)
 * Bruno Reynard (ENS de Lyon)
 * Yanick Ricard (ENS de Lyon)
@@ -48,7 +53,7 @@ students and young researchers.
 
 # Reseach seminars (in progress)
 
-* Thierry Alboussière - 'Anisodyne' an anisotropic dynamo.
+* Thierry Alboussière - 'Anisodyne', an anisotropic dynamo.
 * Gaël Choblet - The dynamics of oceans buried under ice layers in the
 external solar system.
 * Stéphane Labrosse (with A. Morison and G Choblet) - Convection in
@@ -79,6 +84,25 @@ letter.
 
 The housing and food is covered by our sponsors: [Labex LIO](https://lio.universite-lyon.fr/) and [CNRS](http://www.cnrs.fr/en).
 
+# Practical informations
+* Arrival: The school will start by an opening seminar by Henri-Claude Nataf on
+Monday 5<sup>th</sup> at 5pm. We will be hosted onsite starting at 2pm.
+* Departure will be on Friday 16<sup>th</sup> after lunch.
+* Getting there: detailed informations are available on the school
+  [website](https://www.houches-school-physics.com/practical-information/access/). It
+  is possible to walk from the Les Houches train station to the
+  school, but may not be very practical with luggages. Taxis can be
+  reserved by the school secretary, Isabel Lelievre: <houches-secretariat@univ-grenoble-alpes.fr>.
+
+# COVID-19 regulations
+* All participants are asked to bring a negative test dating less that
+  72 hours. Both PCR and antigen tests are accepted. This is required
+  even for participants that are already vaccinated.
+* A self-test will be performed on Tuesday 6<sup>th</sup>.
+* Wearing masks will be required inside buildings.
+* Weather permiting, meals, coffee breaks, poster discussions will be
+  held outside. 
+
 # Location
 
 [Les Houches school of Physics](https://www.houches-school-physics.com/)
@@ -86,6 +110,6 @@ is located in Les Houches, at the entrance of the Chamonix valley, at
 the foot of the Mont-Blanc, in the French Alps. It offers all
 necessary facilities, with a lecture room (70 seats, see image by Ed Garnero), several rooms
 for group working, internet access, a restaurant and chalets for
-housing. 
+housing. Check the [school](https://www.houches-school-physics.com/practical-information/facilities/) website for more details.
 
 ![LectureRoom](./assets/images/LectureRoom.jpg)
