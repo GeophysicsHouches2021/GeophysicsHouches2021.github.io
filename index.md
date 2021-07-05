@@ -9,13 +9,13 @@ round-table discussions and research seminars on the structure,
 dynamics and evolution of the Earth interior. It is aimed at PhD
 students and young researchers.
 
-# Program (preliminary)
+# Program
 
-* Geodynamics: Core dynamics, mantle dynamics, core formation, geo- and palaeomagnetism, geodynamo theory, core-mantle coupling.
-* Earth structure seen from its gravity field.
-* Seismology: body waves, normal modes and surface waves, inverse problem theory, seismic tomography, structure near the core-mantle boundary.
-* Mineral physics: Crystal structure, deformation mechanisms, ab initio calculations, physical properties of the core and mantle.
-* Geochemistry: heterogeneity of the mantle, evolution of the Earth, core formation, magma ocean processes.
+* Mornings, starting at 9:00am, two classes of 1:30 each.
+* Afternoons, starting at 5pm, a class and 1 seminar.
+* The detailed program is available
+  [here](https://docs.google.com/spreadsheets/d/1BaI8csGiw7poJCB-BrfQDLwmQWXTqBxK_703ya9l8CY/edit?usp=sharing). Please
+  check it regularly since it can be subject ot changes.
 
 **The school will primarily be in english**
 
@@ -44,7 +44,6 @@ organised.
 * Guillaume Morard (U. Grenoble Alpes)
 * Henri-Claude Nataf (U. Grenoble Alpes)
 * Isabelle Panet (Institut Géographique National)
-* Bruno Reynard (ENS de Lyon)
 * Yanick Ricard (ENS de Lyon)
 * Barbara Romanowicz (UC Berkeley, Collège de France)
 * Séverine Rosat (U. Strasbourg)
@@ -92,7 +91,13 @@ Monday 5<sup>th</sup> at 5pm. We will be hosted onsite starting at 2pm.
   [website](https://www.houches-school-physics.com/practical-information/access/). It
   is possible to walk from the Les Houches train station to the
   school, but may not be very practical with luggages. Taxis can be
-  reserved by the school secretary, Isabel Lelievre: <houches-secretariat@univ-grenoble-alpes.fr>.
+  reserved by the school secretary, Isabel Lelievre:
+  <houches-secretariat@univ-grenoble-alpes.fr>.
+* Meals:
+  * Breakfast: 7:45 to 8:45
+  * Lunch: 12:30
+  * dinner: 19:30
+  
 
 # COVID-19 regulations
 * All participants are asked to bring a negative test dating less that
