@@ -12,10 +12,12 @@ students and young researchers.
 # Program
 
 * Mornings, starting at 9:00am, two classes of 1:30 each.
-* Afternoons, starting at 5pm, a class and 1 seminar.
+* Afternoons, starting at 4:30pm, a class and 1 seminar.
 * The detailed program is available
   [here](https://docs.google.com/spreadsheets/d/1BaI8csGiw7poJCB-BrfQDLwmQWXTqBxK_703ya9l8CY/edit?usp=sharing). Please
   check it regularly since it can be subject ot changes.
+* All lectures and some seminars are recorded and can be accessed on
+  the [school youtube chanel](https://www.youtube.com/c/EcoledePhysiquedesHouches/videos).
 
 **The school will primarily be in english**
 
@@ -52,6 +54,7 @@ organised.
 
 # Reseach seminars (in progress)
 
+* Guillaume Morard - A diversity of exoplanets.
 * Thierry Alboussière - 'Anisodyne', an anisotropic dynamo.
 * Gaël Choblet - The dynamics of oceans buried under ice layers in the
 external solar system.
