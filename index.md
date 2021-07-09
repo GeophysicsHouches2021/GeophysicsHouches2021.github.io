@@ -12,10 +12,12 @@ students and young researchers.
 # Program
 
 * Mornings, starting at 9:00am, two classes of 1:30 each.
-* Afternoons, starting at 5pm, a class and 1 seminar.
+* Afternoons, starting at 4:30pm, a class and 1 seminar.
 * The detailed program is available
   [here](https://docs.google.com/spreadsheets/d/1BaI8csGiw7poJCB-BrfQDLwmQWXTqBxK_703ya9l8CY/edit?usp=sharing). Please
   check it regularly since it can be subject ot changes.
+* All lectures and some seminars are recorded and can be accessed on
+  the [school youtube chanel](https://www.youtube.com/c/EcoledePhysiquedesHouches/videos).
 
 **The school will primarily be in english**
 
@@ -30,33 +32,35 @@ organised.
 * All participants are encouraged to bring poster, preferably in
   portrait format to fit the poster boards.
 
-# Confirmed lecturers
-* Thierry Alboussière (U. Lyon)
+# Lectures
+* Thierry Alboussière (U. Lyon): [Introduction to core convection](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/TA_core_convection_prepress.pdf)
 * Maëlis Arnould (U. Lyon)
 * Frédéric Chambat (U. Lyon)
-* Gaël Choblet (U. Nantes)
+* Gaël Choblet (U. Nantes):
+  [Planets (for internal Earth scientists), an introduction](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/planets.pdf)
 * Sylvie Demouchy (U. Montpellier)
-* Fanny Garel (U. Montpellier)
-* Stéphane Labrosse (ENS de Lyon)
+* Fanny Garel (U. Montpellier): [Introduction to rheology](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/F_Garel_intro_rheology_LesHouches2021.pdf)
+* Stéphane Labrosse (ENS de Lyon): [A primer on geodynamics](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Houches_geodynamics_2021.pdf)
 * Maylis Landeau (Institut de Physique du Globe de Paris)
 * Ludovic Margerin (U. Toulouse)
-* Jean-Paul Montagner (Institut de Physique du Globe de Paris)
+* Jean-Paul Montagner (Institut de Physique du Globe de Paris):
+  [Seismic anisotropy](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/210709Houches-Montagner.pdf)
 * Guillaume Morard (U. Grenoble Alpes)
 * Henri-Claude Nataf (U. Grenoble Alpes)
-* Isabelle Panet (Institut Géographique National)
+* Isabelle Panet (Institut Géographique National): [Introduction to geodesy](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Cours_Intro_Geodesie.pdf)
 * Yanick Ricard (ENS de Lyon)
 * Barbara Romanowicz (UC Berkeley, Collège de France)
 * Séverine Rosat (U. Strasbourg)
 * Nathanaël Schaeffer (U. Grenoble Alpes)
 * Andrea Tommasi (U Montpellier)
 
-# Reseach seminars (in progress)
+# Reseach seminars
 
+* Guillaume Morard - A diversity of exoplanets.
 * Thierry Alboussière - 'Anisodyne', an anisotropic dynamo.
 * Gaël Choblet - The dynamics of oceans buried under ice layers in the
 external solar system.
-* Stéphane Labrosse (with A. Morison and G Choblet) - Convection in
-  Sputnik Planitia, Pluto.
+* Stéphane Labrosse (with A. Morison and G Choblet) - Sublimation induced surface cooling drives convection in Sputnik Planitia, Pluto.
 * Ludovic Margerin - Application of multi-diffusion to InSight data.
 * Séverine Rosat - Inner-core free oscillations: an observational challenge.
 
