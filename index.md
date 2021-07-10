@@ -54,10 +54,13 @@ organised.
 * Nathanaël Schaeffer (U. Grenoble Alpes)
 * Andrea Tommasi (U Montpellier)
 
+# Opening seminar
+* Henri-Claude Nataf: [A pass to the deep Earth](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Pass_to_the_Deep_Earth_Nataf_210705_dark.pdf)
+
 # Reseach seminars
 
 * Guillaume Morard - A diversity of exoplanets.
-* Thierry Alboussière - 'Anisodyne', an anisotropic dynamo.
+* Thierry Alboussière - ['Anisodyne', an anisotropic dynamo.](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Anisodyne.pdf)
 * Gaël Choblet - The dynamics of oceans buried under ice layers in the
 external solar system.
 * Stéphane Labrosse (with A. Morison and G Choblet) - Sublimation induced surface cooling drives convection in Sputnik Planitia, Pluto.
