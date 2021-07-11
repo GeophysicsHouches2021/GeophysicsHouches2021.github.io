@@ -49,7 +49,8 @@ organised.
 * Henri-Claude Nataf (U. Grenoble Alpes)
 * Isabelle Panet (Institut Géographique National): [Introduction to geodesy](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Cours_Intro_Geodesie.pdf)
 * Yanick Ricard (ENS de Lyon)
-* Barbara Romanowicz (UC Berkeley, Collège de France)
+* Barbara Romanowicz (UC Berkeley, Collège de France):
+  [Imaging the earth’s interior using seismic waves: Body waves and surface waves](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/romanowicz-sismo1.pdf)
 * Séverine Rosat (U. Strasbourg)
 * Nathanaël Schaeffer (U. Grenoble Alpes)
 * Andrea Tommasi (U Montpellier)
