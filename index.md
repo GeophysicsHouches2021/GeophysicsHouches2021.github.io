@@ -34,12 +34,14 @@ organised.
 
 # Lectures
 * Thierry Alboussière (U. Lyon): [Introduction to core convection](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/TA_core_convection_prepress.pdf)
-* Maëlis Arnould (U. Lyon)
+* Maëlis Arnould (U. Lyon): [Lithosphere and mantle interactions](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/cours_lithosphere_mantle_interactions.pdf)
 * Frédéric Chambat (U. Lyon)
 * Gaël Choblet (U. Nantes):
   [Planets (for internal Earth scientists), an introduction](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/planets.pdf)
 * Sylvie Demouchy (U. Montpellier)
-* Fanny Garel (U. Montpellier): [Introduction to rheology](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/F_Garel_intro_rheology_LesHouches2021.pdf)
+* Fanny Garel (U. Montpellier):
+  * [Introduction to rheology](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/F_Garel_intro_rheology_LesHouches2021.pdf)
+  * [What is a (lithospheric) plate?](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/F_Garel_what_is_a_plate_LesHouches2021.pdf)
 * Stéphane Labrosse (ENS de Lyon): [A primer on geodynamics](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Houches_geodynamics_2021.pdf)
 * Maylis Landeau (Institut de Physique du Globe de Paris)
 * Ludovic Margerin (U. Toulouse)
