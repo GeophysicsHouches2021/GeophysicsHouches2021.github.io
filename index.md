@@ -52,10 +52,12 @@ organised.
 * Isabelle Panet (Institut Géographique National): [Introduction to geodesy](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Cours_Intro_Geodesie.pdf)
 * Yanick Ricard (ENS de Lyon)
 * Barbara Romanowicz (UC Berkeley, Collège de France):
-  [Imaging the earth’s interior using seismic waves: Body waves and surface waves](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/romanowicz-sismo1.pdf)
+  * [Imaging the earth’s interior using seismic waves: Body waves and surface waves](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/romanowicz-sismo1.pdf)
+  * [Introduction to geophysical inverse theory](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/romanowicz-inverse-final.pdf)
 * Séverine Rosat (U. Strasbourg)
-* Nathanaël Schaeffer (U. Grenoble Alpes)
-* Andrea Tommasi (U Montpellier)
+* Nathanaël Schaeffer (U. Grenoble Alpes): [An introduction to the geodynamo](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/geodynamo_houches2021.pdf)
+* Andrea Tommasi (U Montpellier): [Deformation and anisotropy of physical properties:
+From the crystal to the rock and plate scale](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/2021-Tommasi-Deformation&Anisotropy.pdf)
 
 # Opening seminar
 * Henri-Claude Nataf: [A pass to the deep Earth](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Pass_to_the_Deep_Earth_Nataf_210705_dark.pdf)
