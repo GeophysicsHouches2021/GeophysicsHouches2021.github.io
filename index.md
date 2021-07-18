@@ -43,7 +43,9 @@ organised.
   * [Introduction to rheology](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/F_Garel_intro_rheology_LesHouches2021.pdf)
   * [What is a (lithospheric) plate?](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/F_Garel_what_is_a_plate_LesHouches2021.pdf)
 * Stéphane Labrosse (ENS de Lyon): [A primer on geodynamics](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Houches_geodynamics_2021.pdf)
-* Maylis Landeau (Institut de Physique du Globe de Paris)
+* Maylis Landeau (Institut de Physique du Globe de Paris):
+  * [Dimensional analysis applied to the deep Earth](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Landeau_DimensionalAnalysis.pdf)
+  * [Earth formation and core-mantle differentiation](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Landeau_EarthFormationDifferentiation.pdf)
 * Ludovic Margerin (U. Toulouse)
 * Jean-Paul Montagner (Institut de Physique du Globe de Paris):
   [Seismic anisotropy](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/210709Houches-Montagner.pdf)
