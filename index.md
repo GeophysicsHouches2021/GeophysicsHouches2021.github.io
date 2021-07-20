@@ -46,7 +46,9 @@ organised.
 * Maylis Landeau (Institut de Physique du Globe de Paris):
   * [Dimensional analysis applied to the deep Earth](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Landeau_DimensionalAnalysis.pdf)
   * [Earth formation and core-mantle differentiation](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Landeau_EarthFormationDifferentiation.pdf)
-* Ludovic Margerin (U. Toulouse)
+* Ludovic Margerin (U. Toulouse):
+  [Scattering of seismic waves in the Earth](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Margerin_LesHouchesLM2021.pdf)
+  and accompanying [movie 1](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Margerin_volcano_Ksc.mp4) and [movie 2](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Margerin_volcano_Ktt.mp4)
 * Jean-Paul Montagner (Institut de Physique du Globe de Paris):
   [Seismic anisotropy](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/210709Houches-Montagner.pdf)
 * Guillaume Morard (U. Grenoble Alpes)
