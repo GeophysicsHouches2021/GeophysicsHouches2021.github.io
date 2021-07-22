@@ -51,14 +51,17 @@ organised.
   and accompanying [movie 1](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Margerin_volcano_Ksc.mp4) and [movie 2](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Margerin_volcano_Ktt.mp4)
 * Jean-Paul Montagner (Institut de Physique du Globe de Paris):
   [Seismic anisotropy](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/210709Houches-Montagner.pdf)
-* Guillaume Morard (U. Grenoble Alpes)
+  * Guillaume Morard (U. Grenoble Alpes): Core Mineral physics
+    [part1](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Morard_Cours_HP_Tools.pdf),
+    [part2](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Morard_Cours-diagnostics.pdf),
+	[part3](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Morard_Cours-Core.pdf).
 * Henri-Claude Nataf (U. Grenoble Alpes)
 * Isabelle Panet (Institut Géographique National): [Introduction to geodesy](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Cours_Intro_Geodesie.pdf)
 * Yanick Ricard (ENS de Lyon)
 * Barbara Romanowicz (UC Berkeley, Collège de France):
   * [Imaging the earth’s interior using seismic waves: Body waves and surface waves](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/romanowicz-sismo1.pdf)
   * [Introduction to geophysical inverse theory](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/romanowicz-inverse-final.pdf)
-* Séverine Rosat (U. Strasbourg)
+* Séverine Rosat (U. Strasbourg): [Earth Normal modes](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Rosat_modes-propres_light.pdf)
 * Nathanaël Schaeffer (U. Grenoble Alpes): [An introduction to the geodynamo](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/geodynamo_houches2021.pdf)
 * Andrea Tommasi (U Montpellier): [Deformation and anisotropy of physical properties:
 From the crystal to the rock and plate scale](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/2021-Tommasi-Deformation&Anisotropy.pdf)
@@ -68,13 +71,13 @@ From the crystal to the rock and plate scale](http://perso.ens-lyon.fr/stephane.
 
 # Reseach seminars
 
-* Guillaume Morard - A diversity of exoplanets.
+* Guillaume Morard - [A diversity of exoplanets](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Morard_Exoplanets-Depot-2.pdf).
 * Thierry Alboussière - ['Anisodyne', an anisotropic dynamo.](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Anisodyne.pdf)
 * Gaël Choblet - The dynamics of oceans buried under ice layers in the
 external solar system.
 * Stéphane Labrosse (with A. Morison and G Choblet) - Sublimation induced surface cooling drives convection in Sputnik Planitia, Pluto.
 * Ludovic Margerin - Application of multi-diffusion to InSight data.
-* Séverine Rosat - Inner-core free oscillations: an observational challenge.
+* Séverine Rosat - [Inner-core free oscillations: an observational challenge](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Rosat_Seminaire1S1.pdf).
 
 # Scientific committee
 
