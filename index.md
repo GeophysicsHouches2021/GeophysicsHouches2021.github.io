@@ -57,7 +57,7 @@ organised.
 	[part3](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Morard_Cours-Core.pdf).
 * Henri-Claude Nataf (U. Grenoble Alpes)
 * Isabelle Panet (Institut Géographique National): [Introduction to geodesy](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Cours_Intro_Geodesie.pdf)
-* Yanick Ricard (ENS de Lyon)
+* Yanick Ricard (ENS de Lyon): [What rheology for plate tectonics](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/Ricard_Houches2021.pdf)
 * Barbara Romanowicz (UC Berkeley, Collège de France):
   * [Imaging the earth’s interior using seismic waves: Body waves and surface waves](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/romanowicz-sismo1.pdf)
   * [Introduction to geophysical inverse theory](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/romanowicz-inverse-final.pdf)
