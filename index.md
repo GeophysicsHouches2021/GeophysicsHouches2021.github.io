@@ -35,7 +35,7 @@ organised.
 # Lectures
 * Thierry Alboussière (U. Lyon): [Introduction to core convection](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/TA_core_convection_prepress.pdf)
 * Maëlis Arnould (U. Lyon): [Lithosphere and mantle interactions](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/cours_lithosphere_mantle_interactions.pdf)
-* Frédéric Chambat (U. Lyon)
+* Frédéric Chambat (U. Lyon):[Births and Moon cycles](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/chambat_births_moon.pdf)
 * Gaël Choblet (U. Nantes):
   [Planets (for internal Earth scientists), an introduction](http://perso.ens-lyon.fr/stephane.labrosse/Lectures/planets.pdf)
 * Sylvie Demouchy (U. Montpellier)
